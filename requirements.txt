@@ -72,8 +72,6 @@ markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 matplotlib==3.9.2
 mdurl==0.1.2
-mkl_random==1.2.8
-mkl-service==2.4.0
 ml_dtypes==0.5.1
 mmcv-full==1.6.1
 mmdet==2.25.1
