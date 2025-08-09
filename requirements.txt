@@ -163,7 +163,7 @@ smmap==5.0.2
 sounddevice==0.5.2
 soundfile==0.13.1
 spacy==2.3.8
-srsly==1.0.7
+srsly==2.4.0
 streamlit==1.47.0
 striprtf==0.0.29
 sympy==1.13.3
