@@ -84,7 +84,6 @@ markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 matplotlib==3.9.2
 mdurl==0.1.2
-mediapipe==0.10.5
 mkl-service==2.4.0
 mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730823082242/work
 mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730822522280/work
